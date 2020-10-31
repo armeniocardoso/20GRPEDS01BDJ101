@@ -1,4 +1,4 @@
-[![Watchers][watchers-shield]][whatchers-url]
+[![Watchers][watchers-shield]][watchers-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
