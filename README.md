@@ -13,4 +13,3 @@ Turma de Engenharia de Software - 1º Trimestre de 2020
 * MaPeamento Objeto-Relacional.
 * Estruturas de Dados.
 * Classes Úteis.
-* 
