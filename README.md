@@ -20,9 +20,17 @@ Turma de Engenharia de Software - 1º Trimestre de 2020
 * Estruturas de Dados.
 * Classes Úteis.
 
+[forks-shield]: https://img.shields.io/github/forks/armeniocardoso/20GRPEDS01BDJ101
+[forks-url]: https://github.com/armeniocardoso/20GRPEDS01BDJ101/forks
+
+[watchers-shield]: https://img.shields.io/github/watchers/armeniocardoso/20GRPEDS01BDJ101
+[watchers-url]: https://github.com/armeniocardoso/20GRPEDS01BDJ101/watchers
+
 [issues-shield]: https://img.shields.io/github/issues/armeniocardoso/20GRPEDS01BDJ101
 [issues-url]: https://github.com/armeniocardoso/20GRPEDS01BDJ101/issues
+
 [license-shield]: https://img.shields.io/github/license/armeniocardoso/20GRPEDS01BDJ101
 [license-url]: https://github.com/armeniocardoso/20GRPEDS01BDJ101/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/armeniocardoso
