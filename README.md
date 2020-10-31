@@ -1,7 +1,7 @@
 # Fundamentos do Desenvolvimento Java
 Turma de Engenharia de Software - 1º Trimestre de 2020
 <br />
-<img src="imagens/logo.png" alt="Logo" width="500" height="139">
+<center style='backgound-color: #eee'><img src="imagens/logo.png" alt="Logo" width="500" height="139"></center>
 
 ## Conteúdo
 * Introdução à Programação Java.
