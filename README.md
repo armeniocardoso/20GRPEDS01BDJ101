@@ -1,15 +1,15 @@
-[![Watchers][watchers-shield]][watchers-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p align="center">
 ![Logo do Infnet](/imagens/logo_infnet.png)
 </p>
 <p align="center">
 Escola Superior de Tecnologia da Informação
 </p>
+
+[![Watchers][watchers-shield]][watchers-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Fundamentos do Desenvolvimento Java
 ## Turma de Engenharia de Software - 2020/1
