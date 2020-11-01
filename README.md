@@ -1,9 +1,4 @@
-<p align="center">
 ![Logo do Infnet](/imagens/logo_infnet.png)
-</p>
-<p align="center">
-Escola Superior de Tecnologia da Informação
-</p>
 
 [![Watchers][watchers-shield]][watchers-url]
 [![Forks][forks-shield]][forks-url]
