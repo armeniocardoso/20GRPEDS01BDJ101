@@ -1,10 +1,11 @@
-![Logo do Infnet](/imagens/logo_infnet.png)
-
 [![Watchers][watchers-shield]][watchers-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+![Logo do Infnet](imagens/logo.png)
+### ESTI - Escola Superior de Tecnologia da Informação
 
 # Fundamentos do Desenvolvimento Java
 ## Turma de Engenharia de Software - 2020/1
