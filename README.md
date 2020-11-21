@@ -4,14 +4,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<p align="center">
 ![Logo do Infnet](imagens/logo.png)
-</p>
-### ESTI - Escola Superior de Tecnologia da Informação
 # Fundamentos do Desenvolvimento Java
+### ESTI - Escola Superior de Tecnologia da Informação
 ### Bloco Desenvolvimento Java - Disciplina Regular 1
 ### Turma de Engenharia de Software - 2020/1
-</div>
 
 ## Conteúdo
 * Introdução à Programação Java.
